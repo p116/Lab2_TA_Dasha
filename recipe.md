@@ -1,4 +1,4 @@
-# Delicious Chocolate Cake Recipe
+# Delicious 8-Step Chocolate Cake Recipe
 
 ## Ingredients:
 - 2 cups all-purpose flour
@@ -17,3 +17,5 @@
 6. Mix in a handful of chocolate chunks for extra indulgence.
 7. Line the bottom of the baking pan with parchment paper for easy cake removal.
 8. Pour the batter into a greased and floured 9x13-inch baking pan.
+9. Wait for 10-15 minutes and remove your cookies from the oven
+10. Enjoy your cookies!
